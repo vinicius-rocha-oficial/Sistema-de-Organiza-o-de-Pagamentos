@@ -1,5 +1,8 @@
 # 💰 Sistema de Organização de Pagamentos
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ce186af-d750-42bd-80c0-a23622a27ec9" />
+
+
 Aplicação fullstack para controle financeiro pessoal, permitindo que cada usuário gerencie seus próprios pagamentos de forma segura, com autenticação e visualização por dashboard.
 
 O sistema conta com isolamento de dados por usuário, autenticação via JWT e gráficos para acompanhamento financeiro.
